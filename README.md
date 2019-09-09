@@ -1,2 +1,2 @@
-# lpc1768_uart
-UART for LPC1768
+# LPC1768 UART
+Receive character from terminal and transmit it back.
